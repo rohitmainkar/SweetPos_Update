@@ -1,0 +1,74 @@
+2024-06-29 14:04:10,016 - INFO - Deleted old log entries.
+2024-06-29 14:04:21,452 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:04:22,703 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/Lspos HTTP/1.1" 500 206651
+2024-06-29 14:04:22,913 - INFO - Connected to source database when synchronize tables.
+2024-06-29 14:04:22,923 - INFO - Connected to target database when synchronize tables.
+2024-06-29 14:04:22,923 - INFO - Fetched 4 rows from users in source database when synchronize tables.
+2024-06-29 14:04:22,933 - INFO - Cleared users in target database when synchronize tables.
+2024-06-29 14:04:22,933 - INFO - Data inserted into users in target database when synchronize tables.
+2024-06-29 14:04:22,933 - INFO - Fetched 8 rows from itemGroups in source database when synchronize tables.
+2024-06-29 14:04:22,943 - INFO - Cleared itemGroups in target database when synchronize tables.
+2024-06-29 14:04:22,943 - INFO - Data inserted into itemGroups in target database when synchronize tables.
+2024-06-29 14:04:22,943 - INFO - Fetched 35 rows from itemSubGroups in source database when synchronize tables.
+2024-06-29 14:04:22,953 - INFO - Cleared itemSubGroups in target database when synchronize tables.
+2024-06-29 14:04:22,973 - INFO - Data inserted into itemSubGroups in target database when synchronize tables.
+2024-06-29 14:04:22,973 - INFO - Fetched 749 rows from items in source database when synchronize tables.
+2024-06-29 14:04:22,993 - INFO - Cleared items in target database when synchronize tables.
+2024-06-29 14:04:23,233 - INFO - Data inserted into items in target database when synchronize tables.
+2024-06-29 14:12:44,279 - INFO - Deleted old log entries.
+2024-06-29 14:12:49,493 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:12:50,658 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/Lspos HTTP/1.1" 500 206651
+2024-06-29 14:12:50,828 - INFO - Connected to source database when synchronize tables.
+2024-06-29 14:12:50,838 - INFO - Connected to target database when synchronize tables.
+2024-06-29 14:12:50,838 - INFO - Fetched 4 rows from users in source database when synchronize tables.
+2024-06-29 14:12:50,838 - INFO - Cleared users in target database when synchronize tables.
+2024-06-29 14:12:50,848 - INFO - Data inserted into users in target database when synchronize tables.
+2024-06-29 14:12:50,848 - INFO - Fetched 8 rows from itemGroups in source database when synchronize tables.
+2024-06-29 14:12:50,848 - INFO - Cleared itemGroups in target database when synchronize tables.
+2024-06-29 14:12:50,858 - INFO - Data inserted into itemGroups in target database when synchronize tables.
+2024-06-29 14:12:50,858 - INFO - Fetched 35 rows from itemSubGroups in source database when synchronize tables.
+2024-06-29 14:12:50,868 - INFO - Cleared itemSubGroups in target database when synchronize tables.
+2024-06-29 14:12:50,878 - INFO - Data inserted into itemSubGroups in target database when synchronize tables.
+2024-06-29 14:12:50,878 - INFO - Fetched 749 rows from items in source database when synchronize tables.
+2024-06-29 14:12:50,898 - INFO - Cleared items in target database when synchronize tables.
+2024-06-29 14:12:51,138 - INFO - Data inserted into items in target database when synchronize tables.
+2024-06-29 14:13:36,145 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:13:37,301 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/Lspos HTTP/1.1" 500 206652
+2024-06-29 14:13:37,491 - INFO - Connected to source database when synchronize tables.
+2024-06-29 14:13:37,501 - INFO - Connected to target database when synchronize tables.
+2024-06-29 14:13:37,501 - INFO - Fetched 4 rows from users in source database when synchronize tables.
+2024-06-29 14:13:37,511 - INFO - Cleared users in target database when synchronize tables.
+2024-06-29 14:13:37,511 - INFO - Data inserted into users in target database when synchronize tables.
+2024-06-29 14:13:37,511 - INFO - Fetched 8 rows from itemGroups in source database when synchronize tables.
+2024-06-29 14:13:37,521 - INFO - Cleared itemGroups in target database when synchronize tables.
+2024-06-29 14:13:37,521 - INFO - Data inserted into itemGroups in target database when synchronize tables.
+2024-06-29 14:13:37,521 - INFO - Fetched 35 rows from itemSubGroups in source database when synchronize tables.
+2024-06-29 14:13:37,531 - INFO - Cleared itemSubGroups in target database when synchronize tables.
+2024-06-29 14:13:37,541 - INFO - Data inserted into itemSubGroups in target database when synchronize tables.
+2024-06-29 14:13:37,541 - INFO - Fetched 749 rows from items in source database when synchronize tables.
+2024-06-29 14:13:37,561 - INFO - Cleared items in target database when synchronize tables.
+2024-06-29 14:13:37,801 - INFO - Data inserted into items in target database when synchronize tables.
+2024-06-29 14:13:51,687 - ERROR - Error: mssql section not found in the configuration file.
+2024-06-29 14:13:51,687 - ERROR - Failed to clear_token_items_by_token_Id 'NoneType' object has no attribute 'execute'
+2024-06-29 14:27:05,225 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:27:06,325 - DEBUG - http://cbmfooderp.com:8000 "GET /SweetPOS/GETMaxSweetPOSSaleIDByClientID/19803/1 HTTP/1.1" 200 66
+2024-06-29 14:27:06,365 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:27:07,565 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/InsertSweetPOSSaleList HTTP/1.1" 200 113
+2024-06-29 14:27:07,565 - INFO - Invoices uploaded successfully  count 2
+2024-06-29 14:29:43,406 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:29:44,501 - DEBUG - http://cbmfooderp.com:8000 "GET /SweetPOS/ItemGroupandSubgroup HTTP/1.1" 200 5611
+2024-06-29 14:32:04,096 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:32:05,196 - DEBUG - http://cbmfooderp.com:8000 "GET /SweetPOS/GETMaxSweetPOSSaleIDByClientID/19803/1 HTTP/1.1" 200 66
+2024-06-29 14:32:05,236 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:32:06,837 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/InsertSweetPOSSaleList HTTP/1.1" 200 118
+2024-06-29 14:32:06,837 - INFO - Invoices uploaded successfully  count 6
+2024-06-29 14:33:43,818 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:33:44,922 - DEBUG - http://cbmfooderp.com:8000 "GET /SweetPOS/GETMaxSweetPOSSaleIDByClientID/19803/1 HTTP/1.1" 200 66
+2024-06-29 14:33:44,932 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:33:46,123 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/InsertSweetPOSSaleList HTTP/1.1" 200 113
+2024-06-29 14:33:46,123 - INFO - Invoices uploaded successfully  count 1
+2024-06-29 14:38:27,925 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:38:29,061 - DEBUG - http://cbmfooderp.com:8000 "GET /SweetPOS/GETMaxSweetPOSSaleIDByClientID/19803/1 HTTP/1.1" 200 66
+2024-06-29 14:38:29,101 - DEBUG - Starting new HTTP connection (1): cbmfooderp.com:8000
+2024-06-29 14:38:30,337 - DEBUG - http://cbmfooderp.com:8000 "POST /SweetPOS/InsertSweetPOSSaleList HTTP/1.1" 200 118
+2024-06-29 14:38:30,337 - INFO - Invoices uploaded successfully  count 3
